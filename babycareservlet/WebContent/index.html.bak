@@ -2,9 +2,6 @@
 <html lang="en">
   <head>
      <title>First Bootstrap</title>
-
-
-
      <link rel="stylesheet" href="resources/bootstrap.min.css"/>
      <style>
      div.box{width:250px;border:1px solid pink;padding:20px;float:left}
